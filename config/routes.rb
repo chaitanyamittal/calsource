@@ -4,5 +4,6 @@ Rails.application.routes.draw do
   resources :users
   resources :projects
   post '/projects/', to:'projects#create', as: :create
+  post '/projects/:id/delete', to: 'projects#delete', as: "delete"
 
 end
