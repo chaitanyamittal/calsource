@@ -3,4 +3,6 @@ Rails.application.routes.draw do
   devise_for :users
   resources :users
   resources :projects
+  post '/projects/', to:'projects#create', as: :create
+
 end

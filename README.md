@@ -3,7 +3,7 @@ Calsource
 
 Authors
 -----------
-Sidharth Goel
-Anusha Jain
-Shaurya Kalsi
-Chaitanya Mittal
+Sidharth Goel  
+Anusha Jain  
+Shaurya Kalsi  
+Chaitanya Mittal  
