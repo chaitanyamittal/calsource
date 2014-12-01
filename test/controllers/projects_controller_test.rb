@@ -10,5 +10,6 @@ class ProjectsControllerTest < ActionController::TestCase
   	assert_not_nil assigns(:projects)
   end
 
+  
 
 end
